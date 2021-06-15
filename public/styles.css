@@ -40,6 +40,10 @@ nav li a{
   padding: 10px 16px;
   letter-spacing: 2px;
 }
+span {
+  color: #FFBAB6;
+  font-weight: 600;
+}
 .btn{
   border-radius: 36px;
   background: #FEE996;
